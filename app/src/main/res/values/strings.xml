@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Game1024</string>
+    <string name="srcoe">得分：</string>
+    <string name="begin_game">开始游戏</string>
+</resources>
